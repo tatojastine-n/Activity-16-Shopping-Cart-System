@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Shopping Cart System\bin\Debug\Shopping Cart System.exe.config
+C:\Users\HP\source\repos\Shopping Cart System\bin\Debug\Shopping Cart System.exe
+C:\Users\HP\source\repos\Shopping Cart System\bin\Debug\Shopping Cart System.pdb
+C:\Users\HP\source\repos\Shopping Cart System\obj\Debug\Shopping Cart System.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Shopping Cart System\obj\Debug\Shopping Cart System.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Shopping Cart System\obj\Debug\Shopping Cart System.exe
+C:\Users\HP\source\repos\Shopping Cart System\obj\Debug\Shopping Cart System.pdb
